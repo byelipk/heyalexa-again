@@ -22,18 +22,19 @@
     "alexa-app": "^3.2.0",
     "bluebird": "^3.4.7",
     "body-parser": "~1.16.0",
+    "deasync": "*",
     "ejs": "~2.5.5",
     "express": "~4.14.1",
     "hotswap": "^1.1.0",
     "lodash.defaults": "^4.2.0",
-    "xml2js": "*",
     "request": "*",
-    "deasync": "*"
+    "xml2js": "*"
   },
   "devDependencies": {
     "chai": "^3.5.0",
     "coveralls": "^2.11.15",
     "danger": "0.11.4",
+    "dotenv": "^4.0.0",
     "istanbul": "0.4.5",
     "mocha": "^3.2.0",
     "sinon": "^1.17.7",

@@ -10,7 +10,8 @@ var app = new alexa.app('books');
 //var app = chatskills.app('books');
 
 // Goodreads API key.
-var key = 'YOUR API KEY';
+require('dotenv').config();
+var key = process.env.GOODREADS_API_KEY;
 
 // Helper method to call Goodreads API.
 function getBook(title) {
