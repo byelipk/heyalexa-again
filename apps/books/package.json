@@ -1,0 +1,19 @@
+{
+  "author": "Pat White",
+  "name": "books",
+  "version": "1.0.0",
+  "description": "A sample app for testing Alexa Echo integration.",
+  "license": "MIT",
+  "main": "index.js",
+  "engines": {
+    "node": "8.4.0"
+  },
+  "dependencies": {
+    "alexa-app": "^4.1.0",
+    "chatskills": "*",
+    "readline-sync": "*",
+    "xml2js": "*",
+    "request": "*",
+    "deasync": "*"
+  }
+}
