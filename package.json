@@ -15,6 +15,7 @@
     "url": "https://github.com/alexa-js/alexa-app-server/issues"
   },
   "scripts": {
+    "dev": "NODE_ENV=development node app",
     "start": "node app"
   },
   "license": "MIT",
