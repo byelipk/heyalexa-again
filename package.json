@@ -23,13 +23,13 @@
     "bluebird": "^3.4.7",
     "body-parser": "~1.16.0",
     "deasync": "*",
+    "dotenv": "^4.0.0",
     "ejs": "~2.5.5",
     "express": "~4.14.1",
     "hotswap": "^1.1.0",
     "lodash.defaults": "^4.2.0",
     "request": "*",
-    "xml2js": "*",
-    "dotenv": "^4.0.0"
+    "xml2js": "*"
   },
   "devDependencies": {
     "chai": "^3.5.0",
